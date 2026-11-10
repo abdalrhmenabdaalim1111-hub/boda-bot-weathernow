@@ -1,0 +1,102 @@
+{
+ "generated_at": "2026-11-09T20:02:39",
+ "bots": {
+  "alarmbot": {
+   "users": 1,
+   "uses": 2,
+   "active_30d": 1
+  },
+  "birth_age": {
+   "users": 1,
+   "uses": 2,
+   "active_30d": 1
+  },
+  "braintwist": {
+   "users": 1,
+   "uses": 1,
+   "active_30d": 1
+  },
+  "caltrack": {
+   "users": 1,
+   "uses": 1,
+   "active_30d": 1
+  },
+  "colorpick": {
+   "users": 1,
+   "uses": 1,
+   "active_30d": 1
+  },
+  "cryptorate": {
+   "users": 1,
+   "uses": 1,
+   "active_30d": 1
+  },
+  "currency": {
+   "users": 1,
+   "uses": 2,
+   "active_30d": 1
+  },
+  "cvbuilder": {
+   "users": 1,
+   "uses": 9,
+   "active_30d": 1
+  },
+  "doctrans": {
+   "users": 1,
+   "uses": 3,
+   "active_30d": 1
+  },
+  "fun_name": {
+   "users": 2,
+   "uses": 3,
+   "active_30d": 2
+  },
+  "iqtest": {
+   "users": 1,
+   "uses": 2,
+   "active_30d": 1
+  },
+  "lovecalculator": {
+   "users": 1,
+   "uses": 1,
+   "active_30d": 1
+  },
+  "personalityanalyzer": {
+   "users": 1,
+   "uses": 1,
+   "active_30d": 1
+  },
+  "photoboost": {
+   "users": 1,
+   "uses": 4,
+   "active_30d": 1
+  },
+  "random_suggest": {
+   "users": 2,
+   "uses": 3,
+   "active_30d": 2
+  },
+  "safepass": {
+   "users": 1,
+   "uses": 3,
+   "active_30d": 1
+  },
+  "store": {
+   "users": 1,
+   "uses": 2,
+   "active_30d": 1
+  },
+  "transbot": {
+   "users": 3,
+   "uses": 4,
+   "active_30d": 3
+  },
+  "vidload": {
+   "users": 1,
+   "uses": 4,
+   "active_30d": 1
+  }
+ },
+ "total_users": 23,
+ "events": {}
+}
